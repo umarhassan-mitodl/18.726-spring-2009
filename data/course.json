@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "legacy_uid": "6a77f169-dd6a-d9f6-d0ea-7095c42a7228",
+  "instructors": {
+    "content": [
+      "3a679c59-2d04-91b6-f3df-58795f497715"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "571dc506-3577-0d20-79d6-aff34a9267c9",
+    "website": "18-726-algebraic-geometry-spring-2009"
+  },
+  "course_title": "Algebraic Geometry",
+  "course_description": "This course provides an introduction to the language of schemes, properties of morphisms, and sheaf cohomology. Together with 18.725 Algebraic Geometry, students gain an understanding of the basic notions and techniques of modern algebraic geometry.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.726",
+  "course_image_thumbnail": {
+    "content": "b867f575-729f-99a7-6e81-b14ad4d2830b",
+    "website": "18-726-algebraic-geometry-spring-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "site_uid": "e9c39b9c-a172-4964-b272-367d6db98641",
+  "site_short_id": "18.726-spring-2009",
+  "site_url_path": "courses/18-726-algebraic-geometry-spring-2009",
+  "title": "Course Metadata"
+}
